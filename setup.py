@@ -3,5 +3,5 @@ setup(
     name="New_Script",
     version="1.0.0",
     packages=find_packages(),
-    scripts=['LTE.py']
+    scripts=['main.py']
 )
