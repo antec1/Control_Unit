@@ -1,0 +1,20 @@
+{
+    "delete": [
+        "flash\\lib\\key5.pem",
+        "flash\\lib\\urequests.py",
+        "flash\\lib\\Test.code-workspace",
+        "flash\\project.pymakr",
+        "flash\\lib\\cert5.pem",
+        "flash\\lib\\OTA.py",
+        "flash\\get_id.py"
+    ],
+    "new": [],
+    "update": [
+        {
+            "URL": "http://127.0.0.1:8000/1.0.1/flash/main.py",
+            "dst_path": "/flash/main.py",
+            "hash": "a9e7096d1d7740f360f519680a2c425ac130d1c9"
+        }
+    ],
+    "version": "1.0.1"
+}
